@@ -1,0 +1,125 @@
+        /* caption{
+            text-align: left;
+        } */
+        /* #data table,
+        th,
+        td {
+            border: 2px solid green;
+            border-collapse: collapse;
+            padding: 10px;
+            
+        }
+        #data th, td{
+            width: 100px;
+        } */
+       
+        /* #student table,
+        th,
+        td {
+            border: 2px solid black;
+            border-collapse: collapse;
+            padding: 10px;
+
+        }
+
+        #data th,
+        td {
+            width: 100px;
+        } */
+    
+        /* #team
+        th,
+        td {
+            padding: 10px;
+            width: 100px;
+        }
+        #team {
+            border-collapse: collapse;
+            border-radius: 5px 5px 0px 0px;
+            overflow: hidden;
+            border-spacing: 0px;
+        }
+        .first{
+            background-color: rgb(58, 238, 205);
+            color: white;
+            text-align: left;
+        }
+        #team .third{
+            color: rgb(58, 238, 205);
+            background-color: rgb(249, 251, 252);
+        }
+        #team .fourth{
+            border-bottom: 2px solid rgb(58, 238, 205);
+        }
+ */
+
+        /* #person{
+
+            border-spacing: 0px;
+            border-collapse: collapse;
+        }
+        #person th, td{
+            padding: 10px;
+            width: 100px;
+            border: 1px solid lightgray;    
+        }
+        #person th{
+            text-align: left;
+        }
+        .first_per {
+            background-color: rgb(223, 222, 222);
+
+            border-bottom: 2px solid rgb(173, 170, 170);
+        }
+        #person td{
+            text-align: right;
+            border-left: 2px solid rgb(173, 170, 170);;
+        } */
+
+        /* #basic
+        {
+            background-color: azure;
+            border-collapse: collapse;
+            margin-left: 20px;
+        }
+        #basic th, td{
+            border: 1px solid black;
+            padding: 10px;
+        }
+        #box{
+            background-color: rgb(241, 240, 240);
+            width: 380px;
+            height: 260px;
+            position: absolute;
+        }
+        #box h2{
+            text-align: center;
+            margin-top: 8px;
+            margin-bottom: 8px;
+        } */
+
+        /* #regional{
+            border-collapse: collapse;
+            border-spacing: 0px;
+            margin-top: -13px;
+        }
+        #regional th, td{
+            border: 1px solid black;
+            padding: 10px;
+        }
+        .box2{
+            width: 220px;
+            height: 300px;
+        }
+        .reg_h3{
+            text-align: center;
+        } */
+
+        /* #seven th, td{
+            border: 1px solid black;
+        }
+        #seven {
+            border: 1px solid gray;
+        } */
+
+        
